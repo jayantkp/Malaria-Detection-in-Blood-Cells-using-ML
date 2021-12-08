@@ -84,6 +84,7 @@ seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
+streamlit
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.2.0
